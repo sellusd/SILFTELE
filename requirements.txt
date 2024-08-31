@@ -37,7 +37,6 @@ decorator==4.4.2
 dill==0.3.8
 discord-webhook==1.0.0
 dj-database-url==2.2.0
-Django==5.0.7
 django-allauth==0.63.3
 django-debug-toolbar==3.2
 django_react_templatetags==8.0.0
